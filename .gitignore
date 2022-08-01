@@ -13,3 +13,4 @@ hive_plug_play/hive/__pycache__/
 hive_plug_play/server/__pycache__/
 hive_plug_play/server/plug_endpoints/__pycache__/
 hive_plug_play/utils/__pycache__/
+/.config/hive_plug_play/config.ini
